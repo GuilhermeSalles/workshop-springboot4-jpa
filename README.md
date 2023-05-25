@@ -60,5 +60,6 @@ Executar pela ide e testar usando o Postman, se caso quiser acesse o banco de da
 
 Guilherme Baltazar Vericimo de Sales
 
-https://www.linkedin.com/in/guilherme-baltazar-0028361a1/
+ <a href="https://www.linkedin.com/in/guilherme-baltazar-0028361a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/yguilhermeb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
