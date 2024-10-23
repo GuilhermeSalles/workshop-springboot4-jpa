@@ -1,65 +1,61 @@
-# Workshop Springboot4 jpa
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeSalles/workshop-springboot4-jpa/blob/main/LICENSE) 
 
-# Objetivos
-* Criar projeto Spring Boot Java
-* Implementar modelo de domínio
-* Estruturar camadas lógicas: resource, service, repository
-* Configurar banco de dados de teste (H2)
-* Povoar o banco de dados
-* CRUD - Create, Retrieve, Update, Delete
-* Tratamento de exceções
+# 🚀 Workshop Springboot4 JPA
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeSalles/workshop-springboot4-jpa/blob/main/LICENSE)
 
-## Layout testes Postman
-Metodo POST:
+## 🎯 Objetivos
+* 🛠️ Criar projeto Spring Boot Java
+* 🏗️ Implementar modelo de domínio
+* 🔍 Estruturar camadas lógicas: resource, service, repository
+* 🗄️ Configurar banco de dados de teste (H2)
+* 🛢️ Povoar o banco de dados
+* 📊 CRUD - Create, Retrieve, Update, Delete
+* ⚠️ Tratamento de exceções
 
+## 🧪 Layout de Testes no Postman
+### 🔄 Método POST:
 ![Postman POST](https://github.com/GuilhermeSalles/assets/blob/main/MetodoPOST.gif)
 
-Metodo GET:
-
+### 🔍 Método GET:
 ![Postman GET](https://github.com/GuilhermeSalles/assets/blob/main/metodoGET.gif)
 
-Metodo PUT:
-
+### ✏️ Método PUT:
 ![Postman PUT](https://github.com/GuilhermeSalles/assets/blob/main/metodoPUT.gif)
 
-Metodo DELETE:
-
+### 🗑️ Método DELETE:
 ![Postman DELETE](https://github.com/GuilhermeSalles/assets/blob/main/metodoDELETE.gif)
 
-## Modelo conceitual
+## 🧩 Modelo Conceitual
 ![Modelo Conceitual](https://github.com/GuilhermeSalles/assets/blob/main/modeloDeDominio.png)
-## Modelo instância
+
+## 💾 Modelo Instância
 ![Modelo Instancia](https://github.com/GuilhermeSalles/assets/blob/main/instanciaDominio.png)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Implantação em produção
-- Banco de dados: Banco de dados de teste (H2 em memória)
+# 🛠️ Tecnologias Utilizadas
+## Back End:
+- ☕ Java
+- ⚙️ Spring Boot
+- 🗃️ JPA / Hibernate
+- 📦 Maven
 
-# Como executar o projeto
+## 🚀 Implantação em Produção:
+- 🗄️ Banco de dados: H2 em memória
 
-## Back end
-Pré-requisitos: Java 17
+# 📝 Como Executar o Projeto
+## Pré-requisitos:
+- Java 17
 
+### Passos:
 ```bash
-# clonar repositório
+# 1️⃣ Clonar o repositório
 git clone https://github.com/GuilhermeSalles/workshop-springboot4-jpa.git
 
-# necessario executar pela ide do spring de preferencia apartir da versão 3
+# 2️⃣ Executar o projeto pela IDE (preferencialmente Spring a partir da versão 3)
 
-# executar o projeto
-Executar pela ide e testar usando o Postman, se caso quiser acesse o banco de dados H2 para analizar suas tabelas
+# 3️⃣ Testar usando Postman ou acessar o banco de dados H2 para analisar as tabelas
 ```
 
-# Autor
-
+# 👤 Autor
 Guilherme Baltazar Vericimo de Sales
 
- <a href="https://www.linkedin.com/in/guilherme-baltazar-0028361a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/yguilhermeb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href="https://www.linkedin.com/in/guilhermebaltazar-v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/yguilhermeb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
