@@ -1,17 +1,24 @@
+# 🚀 Workshop Spring Boot 4 JPA
 
-# 🚀 Workshop Springboot4 JPA
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeSalles/workshop-springboot4-jpa/blob/main/LICENSE)
 
-## 🎯 Objetivos
-* 🛠️ Criar projeto Spring Boot Java
-* 🏗️ Implementar modelo de domínio
-* 🔍 Estruturar camadas lógicas: resource, service, repository
-* 🗄️ Configurar banco de dados de teste (H2)
-* 🛢️ Povoar o banco de dados
-* 📊 CRUD - Create, Retrieve, Update, Delete
-* ⚠️ Tratamento de exceções
+## 📖 Descrição
+Este projeto é um workshop prático que ensina os fundamentos do Spring Boot 4 e JPA. Você aprenderá a criar um sistema com operações CRUD, configurando um banco de dados em memória (H2) e estruturando as camadas do projeto de forma profissional.
 
-## 🧪 Layout de Testes no Postman
+---
+
+## 🎯 Objetivos do Projeto
+- 🛠️ Criar um projeto Spring Boot Java
+- 🏗️ Implementar um modelo de domínio
+- 🔍 Estruturar as camadas lógicas: resource, service, repository
+- 🗄️ Configurar banco de dados de teste (H2)
+- 🛢️ Povoar o banco de dados
+- 📊 Implementar operações CRUD (Create, Retrieve, Update, Delete)
+- ⚠️ Tratar exceções de forma adequada
+
+---
+
+## 🧪 Exemplos de Testes no Postman
 ### 🔄 Método POST:
 ![Postman POST](https://github.com/GuilhermeSalles/assets/blob/main/MetodoPOST.gif)
 
@@ -24,38 +31,52 @@
 ### 🗑️ Método DELETE:
 ![Postman DELETE](https://github.com/GuilhermeSalles/assets/blob/main/metodoDELETE.gif)
 
+---
+
 ## 🧩 Modelo Conceitual
 ![Modelo Conceitual](https://github.com/GuilhermeSalles/assets/blob/main/modeloDeDominio.png)
 
-## 💾 Modelo Instância
-![Modelo Instancia](https://github.com/GuilhermeSalles/assets/blob/main/instanciaDominio.png)
+## 💾 Modelo de Instância
+![Modelo Instância](https://github.com/GuilhermeSalles/assets/blob/main/instanciaDominio.png)
 
-# 🛠️ Tecnologias Utilizadas
-## Back End:
-- ☕ Java
-- ⚙️ Spring Boot
-- 🗃️ JPA / Hibernate
-- 📦 Maven
+---
 
-## 🚀 Implantação em Produção:
-- 🗄️ Banco de dados: H2 em memória
+## 🛠️ Tecnologias Utilizadas
+### Back End:
+- ☕ **Java**
+- ⚙️ **Spring Boot**
+- 🗃️ **JPA / Hibernate**
+- 📦 **Maven**
 
-# 📝 Como Executar o Projeto
-## Pré-requisitos:
-- Java 17
+### Implantação em Produção:
+- 🗄️ Banco de Dados: **H2** (em memória)
+
+---
+
+## 📝 Como Executar o Projeto
+### Pré-requisitos:
+- **Java 17** instalado
 
 ### Passos:
 ```bash
 # 1️⃣ Clonar o repositório
 git clone https://github.com/GuilhermeSalles/workshop-springboot4-jpa.git
 
-# 2️⃣ Executar o projeto pela IDE (preferencialmente Spring a partir da versão 3)
+# 2️⃣ Abrir o projeto em uma IDE (recomenda-se IntelliJ ou Spring Tool Suite)
 
-# 3️⃣ Testar usando Postman ou acessar o banco de dados H2 para analisar as tabelas
+# 3️⃣ Executar o projeto
+
+# 4️⃣ Testar as funcionalidades usando Postman ou acessando o console H2 para visualizar as tabelas
 ```
 
-# 👤 Autor
-Guilherme Baltazar Vericimo de Sales
+---
 
-<a href="https://www.linkedin.com/in/guilhermebaltazar-v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/yguilhermeb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+## 👤 Autor
+**Guilherme Baltazar Vericimo de Sales**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebaltazar-v/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yguilhermeb)
+
+---
+
+🔗 **Repositório GitHub:** [Workshop Spring Boot 4 JPA](https://github.com/GuilhermeSalles/workshop-springboot4-jpa)
